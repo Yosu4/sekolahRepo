@@ -1,5 +1,5 @@
 # sekolahRepo
-Run service ini menggunakan springboot application. Server ini berjalan dengan menggunakan tomcat dengan port 8082.
+Run service ini menggunakan springboot application file SekolahApplication.java di dalam package com.service.school. Server ini berjalan dengan menggunakan tomcat dengan port 8082.
 Untuk testing service ini dapat mengakses swagger http://localhost:8082/swagger-ui/index.html/ atau menggunakan postman yang terlampir bersama dengan service ini.
 
 Folder Structure :
